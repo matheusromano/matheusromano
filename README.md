@@ -22,5 +22,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusromano&show_icons=true&locale=en&layout=compact" alt="matheusromano" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusromano&" alt="matheusromano" /></p>
 
