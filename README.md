@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matheus Romano Braga</h1>
-<h3 align="center">Fullstack developer and lifelong learner.</h3>
+<h3 align="center">Developer and lifelong learner.</h3>
 
-- 🔭 I’m currently working on [Banco do Brasil Project](https://www.bb.com.br)
 
 - 🌱 I’m currently learning **Angular, Java, Typescript, Cloud Computing and DevOps.**
 
