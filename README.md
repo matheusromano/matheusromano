@@ -1,10 +1,6 @@
-<h1 align="center">Hi 👋, I'm Matheus Romano Braga</h1>
-<h3 align="center">Developer and lifelong learner.</h3>
+- I’m currently learning **Go, Java, Cloud Computing and DevOps.**
 
-
-- 🌱 I’m currently learning **Angular, Java, Typescript, Cloud Computing and DevOps.**
-
-- 📫 How to reach me **romanobraga.@gmail.com**
+- How to reach me **romanobraga.@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
